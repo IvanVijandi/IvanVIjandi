@@ -6,8 +6,8 @@
 
 ## About me
 
-- A passionate for learning new skills  
-- Currently working on RAG
+- Passionate about learning new technologies and enhancing my skill set.  
+- Currently working on **Retrieval-Augmented Generation (RAG) systems**, leveraging **Large Language Models (LLMs)** to optimize information retrieval and text generation.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
